@@ -75,6 +75,7 @@ spotify.getPlaylist("7GsKMff7WNlr4UseVhSOPY").then((response) =>
 }, [token,dispatch])
 //console.log("this is the user ->>",user);
 //console.log("This is the token ->>",token);
+//nice
 
   return (
     <div className="App">
